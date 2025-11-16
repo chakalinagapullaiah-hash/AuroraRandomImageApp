@@ -77,9 +77,6 @@ dependencies {
     // Coil
     implementation(libs.coil.compose)
 
-// Palette (for dominant colors)
-    //implementation(libs.androidx.palette.ktx)
-
 
     // Coroutines
     implementation(libs.kotlinx.coroutines.android)
